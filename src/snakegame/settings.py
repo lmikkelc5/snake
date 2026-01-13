@@ -1,6 +1,6 @@
 # src/snakegame/settings.py
 
-CELL_SIZE = 25
+CELL_SIZE = 20
 
 GRID_WIDTH = 25
 GRID_HEIGHT = 25
