@@ -1,0 +1,17 @@
+# src/snakegame/settings.py
+
+CELL_SIZE = 25
+
+GRID_WIDTH = 25
+GRID_HEIGHT = 25
+
+WINDOW_WIDTH = GRID_WIDTH * CELL_SIZE
+WINDOW_HEIGHT = GRID_HEIGHT * CELL_SIZE
+
+FPS = 60 #refresh rate
+
+# Colors (RGB)
+BG_COLOR = (20, 20, 20)
+GRID_COLOR = (35, 35, 35)
+SNAKE_COLOR = (80, 200, 120)
+FOOD_COLOR = (220, 80, 80)
