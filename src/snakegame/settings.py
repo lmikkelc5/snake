@@ -15,3 +15,7 @@ BG_COLOR = (20, 20, 20)
 GRID_COLOR = (35, 35, 35)
 SNAKE_COLOR = (80, 200, 120)
 FOOD_COLOR = (220, 80, 80)
+
+MODE_MENU = "menu"
+MODE_PLAY = "play"
+MODE_GAME_OVER = "game_over"
