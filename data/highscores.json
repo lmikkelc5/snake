@@ -1,27 +1,22 @@
 [
   {
     "name": "Mikkel",
-    "score": 39,
-    "timestamp": 1768354022
+    "score": 10000000,
+    "timestamp": 1768354460
+  },
+  {
+    "name": "your mother",
+    "score": 29,
+    "timestamp": 1768354643
   },
   {
     "name": "Admin",
-    "score": 3,
-    "timestamp": 1768353355
+    "score": 11,
+    "timestamp": 1768354188
   },
   {
     "name": "Admin",
-    "score": 3,
-    "timestamp": 1768353634
-  },
-  {
-    "name": "Admin",
-    "score": 1,
-    "timestamp": 1768353374
-  },
-  {
-    "name": "Mikkel",
-    "score": 0,
-    "timestamp": 1768353803
+    "score": 9,
+    "timestamp": 1768354301
   }
 ]
